@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandra Ania Fjellvik</title>
+  <desc id="desc">GIS, remote sensing and environmental analysis. A dark green banner with abstract contour lines and a mosaic inspired by satellite imagery.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#152d2a"/>
+      <stop offset="1" stop-color="#223e35"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" x2="1">
+      <stop offset="0" stop-color="#152d2a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#152d2a" stop-opacity=".4"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#c1d4b3" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <g fill="none" stroke="#a4bc96" stroke-width="1.15" opacity=".23">
+      <path d="M792-45C702 9 780 54 763 104S665 173 741 221s80 92 28 139"/>
+      <path d="M822-45C734 12 808 61 793 112s-91 65-21 109 88 93 38 139"/>
+      <path d="M852-45C767 18 835 66 824 120s-83 60-17 103 96 90 51 137"/>
+      <path d="M882-45C799 25 864 74 856 129s-75 55-12 98 104 85 62 133"/>
+      <path d="M912-45C835 30 893 82 890 140s-67 49-8 91 112 80 73 129"/>
+      <path d="M942-45C866 35 925 94 925 151s-59 42-3 84 120 75 83 125"/>
+      <path d="M972-45C898 40 956 103 961 162s-51 35 2 77 127 70 93 121"/>
+      <path d="M1002-45C931 47 987 113 997 174s-43 27 7 69 135 66 104 117"/>
+      <path d="M1032-45C965 54 1020 124 1034 186s-35 19 12 61 143 60 114 113"/>
+      <path d="M1062-45C999 62 1053 136 1072 198s-27 11 17 53 151 56 124 109"/>
+      <path d="M1092-45C1032 69 1086 148 1110 210s-18 3 22 45 159 50 134 105"/>
+    </g>
+    <g stroke="#152d2a" stroke-width="3">
+      <path d="M1002 51h54v54h-54z" fill="#93a879" opacity=".48"/>
+      <path d="M1056 51h54v54h-54z" fill="#c9c68e" opacity=".43"/>
+      <path d="M1110 51h54v54h-54z" fill="#71977e" opacity=".42"/>
+      <path d="M948 105h54v54h-54z" fill="#688c74" opacity=".46"/>
+      <path d="M1002 105h54v54h-54z" fill="#c1c08c" opacity=".63"/>
+      <path d="M1056 105h54v54h-54z" fill="#b6c599" opacity=".7"/>
+      <path d="M1110 105h54v54h-54z" fill="#87ac9b" opacity=".48"/>
+      <path d="M948 159h54v54h-54z" fill="#b4b786" opacity=".62"/>
+      <path d="M1002 159h54v54h-54z" fill="#789f89" opacity=".64"/>
+      <path d="M1056 159h54v54h-54z" fill="#59887e" opacity=".59"/>
+      <path d="M1110 159h54v54h-54z" fill="#40766f" opacity=".4"/>
+      <path d="M948 213h54v54h-54z" fill="#71967b" opacity=".34"/>
+      <path d="M1002 213h54v54h-54z" fill="#47796d" opacity=".45"/>
+      <path d="M1056 213h54v54h-54z" fill="#86a08b" opacity=".4"/>
+    </g>
+    <path d="M1084-15C1042 38 1128 63 1081 114s-88 51-61 99 20 75-13 122" stroke="#a8ced0" stroke-width="3" fill="none" opacity=".6"/>
+    <rect x="780" width="420" height="320" fill="url(#shade)"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="56" y="55" fill="#b5c7a8" font-size="12" font-weight="700" letter-spacing="3">PEOPLE / PLACE / ENVIRONMENT</text>
+      <text x="54" y="131" fill="#f5f2e8" font-size="49" font-weight="700" letter-spacing="-1.6">Alexandra Ania Fjellvik</text>
+      <text x="56" y="177" fill="#d4dfcf" font-size="19">GIS · Remote sensing · Environmental analysis</text>
+      <path d="M56 216H739" stroke="#9fb28c" stroke-opacity=".32"/>
+      <text x="56" y="260" fill="#b5c7a8" font-size="12" font-weight="700" letter-spacing="2.2">GEOSPATIAL ANALYST · SIGRØN</text>
+      <text x="56" y="285" fill="#a6b8ab" font-size="12" letter-spacing="1">SANDEFJORD, NORWAY</text>
+    </g>
+  </g>
+</svg>
+
